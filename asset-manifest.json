@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/star-match-hooks/static/css/main.1b4dc8b8.chunk.css",
+    "main.js": "/star-match-hooks/static/js/main.68c85c1a.chunk.js",
+    "main.js.map": "/star-match-hooks/static/js/main.68c85c1a.chunk.js.map",
+    "runtime-main.js": "/star-match-hooks/static/js/runtime-main.f4262556.js",
+    "runtime-main.js.map": "/star-match-hooks/static/js/runtime-main.f4262556.js.map",
+    "static/js/2.ed2936a0.chunk.js": "/star-match-hooks/static/js/2.ed2936a0.chunk.js",
+    "static/js/2.ed2936a0.chunk.js.map": "/star-match-hooks/static/js/2.ed2936a0.chunk.js.map",
+    "index.html": "/star-match-hooks/index.html",
+    "precache-manifest.b26a205e2dd0a46c4d0f2d99c6b4709b.js": "/star-match-hooks/precache-manifest.b26a205e2dd0a46c4d0f2d99c6b4709b.js",
+    "service-worker.js": "/star-match-hooks/service-worker.js",
+    "static/css/main.1b4dc8b8.chunk.css.map": "/star-match-hooks/static/css/main.1b4dc8b8.chunk.css.map",
+    "static/js/2.ed2936a0.chunk.js.LICENSE.txt": "/star-match-hooks/static/js/2.ed2936a0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/star-match-hooks/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4262556.js",
+    "static/js/2.ed2936a0.chunk.js",
+    "static/css/main.1b4dc8b8.chunk.css",
+    "static/js/main.68c85c1a.chunk.js"
+  ]
+}
