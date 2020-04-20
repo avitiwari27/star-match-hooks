@@ -95,11 +95,13 @@ const Game = (props) => {
         Pick 1 or more numbers that sum to the number of stars
       </div>
       <form onSubmit={handleSubmit}>
+        <label>Enter a level = </label>
         <input
-          type="text"
+          type="number"
+          min="3"
+          max="18"
           className="input"
           value={value}
-          placeholder="Enter a level"
           disabled={gameStatus == "active"}
           onChange={(e) => setValue(e.target.value)}
         />
